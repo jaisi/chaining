@@ -1,4 +1,4 @@
-# Chaining Array Methods
+# Chaining Array Methods - COMPLETE
 
 ## Setup
 
